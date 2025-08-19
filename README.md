@@ -28,5 +28,6 @@ A collection of python projects showcasing clean code, problem-solving and pract
 # 🚀 Technologies Used  
 - Python 3  
 - JSON / APIs (for Weather App)  
-- File handling & OOP concepts  
+- File handling & OOP concepts
+- Using Library (Tkinter, Request)
 
